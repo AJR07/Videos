@@ -8,7 +8,7 @@
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
-    "@remotion/cli": "4.0.189",
+    "@remotion/cli": "4.0.209",
     "framer-motion": "^11.3.19",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
